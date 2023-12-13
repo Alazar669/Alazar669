@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactNative**
 
-- 👨‍💻 All of my projects are available at [https://alazar-amor.netlify.app/](https://alazar-amor.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://alazar-portfolios.netlify.app/](https://alazar-portfolios.netlify.app/)](https://alazar-portfolios.netlify.app/)
 
 - 💬 Ask me about **react, mern and tailwind**
 
